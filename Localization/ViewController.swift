@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var label: UILabel!
     
+    @IBOutlet weak var login: UIButton!
     
     @IBOutlet weak var langSwitch: UISwitch!
     override func viewDidLoad() {
@@ -19,7 +20,7 @@ class ViewController: UIViewController {
 //        label.text = NSLocalizedString("create_an_account", comment: "")
         
         label.text = "create_an_account".localized
-        
+        login.titleLabel?.text = "login".localized
 
     }
 

@@ -1,9 +1,9 @@
 
 /* Class = "UIButton"; configuration.title = "Login"; ObjectID = "Nue-Rh-pJj"; */
-"Nue-Rh-pJj.configuration.title" = "Login";
+"Nue-Rh-pJj.configuration.title" = "Language";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nue-Rh-pJj"; */
-"Nue-Rh-pJj.normalTitle" = "Button";
+"Nue-Rh-pJj.normalTitle" = "Login";
 
 /* Class = "UILabel"; text = "Welcome"; ObjectID = "dyk-Pe-CvE"; */
 "dyk-Pe-CvE.text" = "Welcome";
