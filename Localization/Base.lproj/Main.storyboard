@@ -52,6 +52,12 @@
                                     <fontDescription key="titleFontDescription" name="Helvetica" family="Helvetica" pointSize="25"/>
                                 </buttonConfiguration>
                             </button>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="2SD-Cs-Pez">
+                                <rect key="frame" x="106" y="271" width="185" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemGray4Color"/>
@@ -64,6 +70,7 @@
                     <connections>
                         <outlet property="label" destination="pnl-ej-fys" id="Ac1-yt-6Rn"/>
                         <outlet property="login" destination="SeH-bQ-EUy" id="bbG-7C-Rlq"/>
+                        <outlet property="password" destination="2SD-Cs-Pez" id="djG-OP-lHg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
