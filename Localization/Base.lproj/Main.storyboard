@@ -44,10 +44,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8We-vb-9jE">
-                                <rect key="frame" x="172" y="575" width="49" height="31"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </switch>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SeH-bQ-EUy">
                                 <rect key="frame" x="146" y="379" width="100" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -67,7 +63,6 @@
                     </view>
                     <connections>
                         <outlet property="label" destination="pnl-ej-fys" id="Ac1-yt-6Rn"/>
-                        <outlet property="langSwitch" destination="8We-vb-9jE" id="Oq7-Sp-Eah"/>
                         <outlet property="login" destination="SeH-bQ-EUy" id="bbG-7C-Rlq"/>
                     </connections>
                 </viewController>
