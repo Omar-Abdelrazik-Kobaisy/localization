@@ -9,3 +9,4 @@
 "create_an_account" = "create_an_account";
 "login" = "LogIn";
 "password" = "password";
+"confirmpassword" = "confirmpassword";

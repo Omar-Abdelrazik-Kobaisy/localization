@@ -9,3 +9,4 @@
 "create_an_account" = "انشائ حساب جديد";
 "login" = "تسجيل الدخول";
 "password" = "كلمه المرور";
+"confirmpassword" = "تاكيد كلمه المرور";
