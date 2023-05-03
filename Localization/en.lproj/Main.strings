@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "Nue-Rh-pJj"; */
+"Nue-Rh-pJj.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nue-Rh-pJj"; */
+"Nue-Rh-pJj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "dyk-Pe-CvE"; */
+"dyk-Pe-CvE.text" = "Welcome";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "tmq-aP-HtP"; */
+"tmq-aP-HtP.placeholder" = "UserName";
