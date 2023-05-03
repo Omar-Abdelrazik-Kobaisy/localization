@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var login: UIButton!
     
+    @IBOutlet weak var password: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -20,7 +21,7 @@ class ViewController: UIViewController {
         
         label.text = "create_an_account".localized
         login.titleLabel?.text = "login".localized
-
+        password.placeholder = "password".localized
     }
 
     @IBAction func btn(_ sender: Any) {
