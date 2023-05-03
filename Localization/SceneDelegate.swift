@@ -22,7 +22,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate ,MOLHResetable{
         guard let _ = (scene as? UIWindowScene) else { return }
     }
     func reset() {
-//        let rootViewController: UIWindow = ((UIApplication.shared.delegate?.window)!)!
                 let story = UIStoryboard(name: "Main", bundle: nil)
                 window?.rootViewController = story.instantiateViewController(withIdentifier: "ViewController") as! ViewController
         window?.makeKeyAndVisible()

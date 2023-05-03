@@ -20,15 +20,7 @@ class ViewController: UIViewController {
         
         label.text = "create_an_account".localized
         
-//        if langSwitch.isOn {
-//            //en
-//            MOLH.setLanguageTo(MOLHLanguage.currentAppleLanguage() == "ar" ? "en" : "ar")
-//            MOLH.reset()
-//        }else{
-//            //ar
-//            MOLH.setLanguageTo(MOLHLanguage.currentAppleLanguage() == "en" ? "ar" : "en")
-//            MOLH.reset()
-//        }
+
     }
 
     @IBAction func btn(_ sender: Any) {

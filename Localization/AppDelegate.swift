@@ -9,12 +9,7 @@ import UIKit
 import MOLH
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate  {
-//    func reset() {
-//        let rootViewController: UIWindow = ((UIApplication.shared.delegate?.window)!)!
-//                let story = UIStoryboard(name: "Main", bundle: nil)
-//                rootViewController.rootViewController = story.instantiateViewController(withIdentifier: "ViewController")
-//    }
-    
+
 
 
 
